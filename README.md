@@ -1,2 +1,2 @@
 # TemplateOneLeon
-Template One Leon.
+Template One Leon built using HTML and CSS.
